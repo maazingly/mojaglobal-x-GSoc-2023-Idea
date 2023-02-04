@@ -6,7 +6,7 @@
 
 The world we live in is changing and the consequences of our actions are becoming increasingly apparent. Climate change and deforestation are two of the most pressing issues that we face today, and they are interconnected in many ways. The future of our planet depends on the health of our forests, and we need to ensure that they are protected and managed in a sustainable manner.  
 
-This project involves the development of a library aimed at facilitating the analysis of data from the land sector management dataset; designed and equipped with the tools and visualizations necessary to analyze data from the same. This data will help us understand the ecological conditions in forests around the world, and enable us to conduct research into the growth and carbon sequestration of forests.  
+This project involves the development of a library aimed at facilitating the analysis of data from the land sector management dataset; designed and equipped with the tools (sub-packages) and features necessary to analyze data from the same. This data will help us understand the ecological conditions in forests around the world, and enable us to conduct research into the growth and carbon sequestration of forests.  
 
 The library will be used to analyze different geographical locations, allowing us to get a comprehensive understanding of the state of our forests. This information can then be used to create models that will help us predict the future growth and carbon sequestration of managed forests.
 
